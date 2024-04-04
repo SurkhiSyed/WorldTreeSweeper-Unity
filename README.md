@@ -1,4 +1,4 @@
-# ExploreWorld Unity Game
+# WorldTreeSweeper Unity Game
 
 This game was created using the Unity Game Engine with a solo-type RPG in mind, with the task of controlling the avatar through challanging terrain and difficult enemies. When creating this game, real world physics that learned in Grade 11 and 12 was taken into consideration and different principles such as gravity, acceleration, mass, and forces were applied when programming the character to move at the player's command. The player uses arrow keys to navigate through difficult terrain. 
 
