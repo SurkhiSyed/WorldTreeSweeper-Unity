@@ -7,7 +7,7 @@ Overall, this project is a world exploration game that includes real world physi
 A playable demo version of this game is available through the following Unity Play link:
 (https://play.unity.com/mg/other/webgl-builds-354860)
 
-<img width="400" alt="UnityGame1" src="https://user-images.githubusercontent.com/86132908/216204924-7b5c965d-8d89-481c-8dba-848c1814f03b.PNG"><img width="400" alt="UnityGame2" src="https://user-images.githubusercontent.com/86132908/216208081-e9ecbf8f-ce0b-4ec9-98b4-327541bc7e32.PNG">
+<img width="400" alt="UnityGame1" src="https://user-images.githubusercontent.com/86132908/216204924-7b5c965d-8d89-481c-8dba-848c1814f03b.PNG"><img width="400" alt="UnityGame2" src="https://media.discordapp.net/attachments/1032102639908966472/1225582262662463559/image.png?ex=6621a76d&is=660f326d&hm=0059f7c0e78b8f09e8c370e565a0737fa0845ec9790a83b718c548c3745209a4&=&format=webp&quality=lossless&width=1100&height=672">
 
 Please note that this is an unreleased work. 
 This project is a game created using Unity engine and consists of many openly liscensed packages from the Unity Asset Store.
